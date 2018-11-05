@@ -5,7 +5,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "3.3.3",
+    "express": "4.15.5",
     "jade": "1.1.5",
     "pg": "latest",
     "squel": "1.1.3",
